@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72160976742",
+    "project_id": "algoar-app",
+    "storage_bucket": "algoar-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72160976742:android:9886f45734b44dd74532a7",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.AlgoARApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnlFIFn7DfOiis2TLAr4F7XAC9X_p5x-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
